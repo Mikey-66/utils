@@ -1,0 +1,20 @@
+{
+    "name": "superme/utils",
+    "description": "way to be a code master",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujie",
+            "email": "liujie@xiaozhu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SuperMe\\Utils\\": "src/"
+        }
+    }
+}
